@@ -3,4 +3,6 @@
     <string name="enter_email">Enter email</string>
     <string name="enter_password">Enter password</string>
     <string name="login">Login</string>
+    <string name="set_user_name">Set user name</string>
+    <string name="get_user_name">Get user name</string>
 </resources>
